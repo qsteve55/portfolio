@@ -1121,6 +1121,13 @@ h2, .h2 {
   }
 }
 
+@media (min-width: 991px) {
+  #pw-rp1 {
+    margin-left:60px;
+    width:95%;
+  }
+}
+
 @media (min-width: 360px) {
   #pwresearch-img {
     margin-left:9px;
@@ -1334,4 +1341,3 @@ h2, .h2 {
     width:95%;
   }
 }
-
