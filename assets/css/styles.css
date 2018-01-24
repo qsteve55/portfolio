@@ -566,6 +566,7 @@ h2, .h2 {
 @media (min-width: 767px) {
   #homepg-agth1 {
     width:700px;
+    margin-left: 0px;
   }
 }
 
@@ -578,6 +579,7 @@ h2, .h2 {
 @media (min-width: 991px) {
   #homepg-agth1 {
     width:1160px;
+    margin-left: 0px
   }
 }
 
