@@ -611,7 +611,7 @@ h2, .h2 {
 
 @media (min-width: 767px) {
   .omu-img {
-    width:100%;
+    width:75%%;
     margin-left:0px;
     margin-top:20px;
   }
@@ -661,7 +661,7 @@ h2, .h2 {
 @media (min-width: 767px) {
   #homepg-pwimg {
     margin-top:20px;
-    width:100%;
+    width:75%;
   }
 }
 
@@ -710,6 +710,7 @@ h2, .h2 {
     padding-right:20px;
     border-radius:6px;
     width:450px;
+    padding-left: : 20px
   }
 }
 
@@ -739,6 +740,7 @@ h2, .h2 {
     padding-right:20px;
     border-radius:6px;
     width:450px;
+    padding-right: 20px
   }
 }
 
