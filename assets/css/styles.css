@@ -700,7 +700,7 @@ h2, .h2 {
   }
 }
 
-@media (min-width: 991px) {
+@media (min-width: 1067px) {
   .text-block1 {
     position:absolute;
     top:130px;
@@ -730,7 +730,7 @@ h2, .h2 {
   }
 }
 
-@media (min-width: 991px) {
+@media (min-width: 1067px) {
   .text-block2 {
     position:absolute;
     top:130px;
