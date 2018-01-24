@@ -757,7 +757,7 @@ h2, .h2 {
   }
 }
 
-@media (min-width: 991px) {
+@media (min-width: 1067px) {
   #dumbox {
     background:url(../../assets/img/dumbells1.png);
     background-size:cover;
