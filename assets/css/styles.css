@@ -772,7 +772,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #re-h1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -785,7 +785,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #re-p1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -798,7 +798,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   .col-md-12.r2body {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -817,14 +817,14 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #comp-h1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
 
 @media (min-width: 991px) {
   #comp-p1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -845,7 +845,7 @@ h2, .h2 {
 
 @media (min-width: 1024px) {
   #companl-img {
-    margin-left:60px;
+    margin-left:40px;
     height:300px;
     width:95%;
   }
@@ -854,7 +854,7 @@ h2, .h2 {
 @media (min-width: 1160px) {
   #companl-img {
     height:350px;
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -867,7 +867,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #persona-h1 {
-    margin-left:60px;
+    margin-left:40px;
   }
 }
 
@@ -879,7 +879,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #persona-p1 {
-    margin-left:60px;
+    margin-left:40px;
   }
 }
 
@@ -901,7 +901,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   .user-persona {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
     height:500px;
   }
@@ -909,7 +909,7 @@ h2, .h2 {
 
 @media (min-width: 1160px) {
   .user-persona {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
     height:600px;
   }
@@ -923,7 +923,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #userflow-h1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -936,7 +936,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #userflow-p1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -951,7 +951,7 @@ h2, .h2 {
   .user-flowimg {
     display:initial;
     width:95%;
-    margin-left:60px;
+    margin-left:40px;
   }
 }
 
@@ -963,7 +963,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #designlogo-h1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -976,7 +976,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #designlogo-p1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -991,7 +991,7 @@ h2, .h2 {
 @media (min-width: 991px) {
   .designlogo {
     width:95%;
-    margin-left:60px;
+    margin-left:40px;
   }
 }
 
@@ -1003,7 +1003,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #lofi-h1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1016,7 +1016,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #lofi-p1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1030,7 +1030,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   .lowfi {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1043,7 +1043,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #findes-h1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1056,7 +1056,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #findes-p1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1070,7 +1070,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   .final-ogunm {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1083,7 +1083,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #conclu-h1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1096,7 +1096,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #conclu-h2 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1109,7 +1109,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pw-rh1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1123,7 +1123,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pw-rp1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1137,7 +1137,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pwresearch-img {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1150,7 +1150,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #comppwh1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1163,7 +1163,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   .comp-pwp1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1177,7 +1177,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pwcompana-img {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1190,7 +1190,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pwuserchart-h1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1203,7 +1203,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pwuserchart-p1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1218,7 +1218,7 @@ h2, .h2 {
   #pwuserch-img {
     display:initial;
     width:95%;
-    margin-left:60px;
+    margin-left:40px;
   }
 }
 
@@ -1230,7 +1230,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pwlogo-h1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1243,7 +1243,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pwlogo-p1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1257,7 +1257,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pwlogo-img {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1270,7 +1270,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pwwirefr-h1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1283,7 +1283,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pwwirefr-p1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1297,7 +1297,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pwwireframe-img {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1310,7 +1310,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pwfinaldes-h1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1323,7 +1323,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pwfinaldes-p1 {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
@@ -1337,7 +1337,7 @@ h2, .h2 {
 
 @media (min-width: 991px) {
   #pwfinaldes-img {
-    margin-left:60px;
+    margin-left:40px;
     width:95%;
   }
 }
